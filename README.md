@@ -3,7 +3,7 @@ I am from the Vancouver, Washington. Besides English, I do speak Russian, Romani
 I am a recent graduate from Oregon State University in Computer Sceince. <br />
 I’m interested in web, app, cybersecurity, front and backend development. <br />
 # 📫 **Contact Me **
-[Let's be connected on LinkedIn!](https://www.linkedin.com/in/ruben-sanduleac-93426a1b1/)
+[Let's be connected on LinkedIn!](https://www.linkedin.com/in/ruben-sanduleac-93426a1b1/)<br />
 [My Instagram Profile](https://www.instagram.com/tr_ruvim/)
 
 <!---
