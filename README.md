@@ -1,7 +1,7 @@
 # 👋 **Hi, I’m Ruben Sanduleac**
-I am from the Vancouver, Washington. Besides English, I do speak Russian, Romanian and Ukranian.
-I am a recent graduate from Oregon State University in Computer Sceince.
-I’m interested in web, app, cybersecurity, front and backend development.
+I am from the Vancouver, Washington. Besides English, I do speak Russian, Romanian and Ukranian. <br />
+I am a recent graduate from Oregon State University in Computer Sceince. <br />
+I’m interested in web, app, cybersecurity, front and backend development. <br />
 # 📫 **Contact Me **
 
 <!---
